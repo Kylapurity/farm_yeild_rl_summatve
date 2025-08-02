@@ -1,0 +1,46 @@
+{
+  "algorithm": "dqn",
+  "model_path": "models/dqn/dqn_farm_final",
+  "model_name": "dqn_farm_final",
+  "timestamp": "2025-07-30 23:04:56",
+  "episodes_run": 5,
+  "total_steps": 250,
+  "statistics": {
+    "avg_reward": 474.0,
+    "max_reward": 597.2,
+    "avg_harvests": 4.8,
+    "avg_yield": 132.6
+  },
+  "episode_details": [
+    {
+      "episode": 1,
+      "reward": 597.2,
+      "harvests": 6,
+      "yield": 165.4
+    },
+    {
+      "episode": 2,
+      "reward": 330.5,
+      "harvests": 2,
+      "yield": 54.6
+    },
+    {
+      "episode": 3,
+      "reward": 452.8,
+      "harvests": 4,
+      "yield": 111.0
+    },
+    {
+      "episode": 4,
+      "reward": 517.8,
+      "harvests": 8,
+      "yield": 221.5
+    },
+    {
+      "episode": 5,
+      "reward": 471.7,
+      "harvests": 4,
+      "yield": 110.7
+    }
+  ]
+}

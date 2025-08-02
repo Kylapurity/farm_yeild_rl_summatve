@@ -1,0 +1,46 @@
+{
+  "algorithm": "a2c",
+  "model_path": "models/a2c/a2c_farm_final",
+  "model_name": "a2c_farm_final",
+  "timestamp": "2025-08-02 03:57:09",
+  "episodes_run": 5,
+  "total_steps": 250,
+  "statistics": {
+    "avg_reward": 640.4,
+    "max_reward": 814.7,
+    "avg_harvests": 9.2,
+    "avg_yield": 253.9
+  },
+  "episode_details": [
+    {
+      "episode": 1,
+      "reward": 369.5,
+      "harvests": 6,
+      "yield": 165.6
+    },
+    {
+      "episode": 2,
+      "reward": 814.7,
+      "harvests": 11,
+      "yield": 305.0
+    },
+    {
+      "episode": 3,
+      "reward": 606.6,
+      "harvests": 9,
+      "yield": 247.9
+    },
+    {
+      "episode": 4,
+      "reward": 673.4,
+      "harvests": 10,
+      "yield": 274.7
+    },
+    {
+      "episode": 5,
+      "reward": 738.0,
+      "harvests": 10,
+      "yield": 276.3
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "dqn": [
+    {
+      "timestamp": "2025-07-30 22:06:14",
+      "avg_reward": 5961.5,
+      "max_reward": 7818.8,
+      "avg_harvests": 28.4
+    },
+    {
+      "timestamp": "2025-07-30 22:20:25",
+      "avg_reward": 6529.0,
+      "max_reward": 8257.5,
+      "avg_harvests": 29.8
+    },
+    {
+      "timestamp": "2025-07-30 22:25:39",
+      "avg_reward": 6773.7,
+      "max_reward": 8403.7,
+      "avg_harvests": 30.8
+    },
+    {
+      "timestamp": "2025-07-30 22:31:40",
+      "avg_reward": 5103.7,
+      "max_reward": 6515.9,
+      "avg_harvests": 24.8
+    },
+    {
+      "timestamp": "2025-07-30 22:58:29",
+      "avg_reward": 492.0,
+      "max_reward": 695.7,
+      "avg_harvests": 4.7
+    },
+    {
+      "timestamp": "2025-07-30 23:04:56",
+      "avg_reward": 474.0,
+      "max_reward": 597.2,
+      "avg_harvests": 4.8
+    }
+  ],
+  "ppo": [
+    {
+      "timestamp": "2025-07-30 23:13:59",
+      "avg_reward": 558.3,
+      "max_reward": 735.6,
+      "avg_harvests": 6.6
+    },
+    {
+      "timestamp": "2025-07-30 23:19:26",
+      "avg_reward": 460.7,
+      "max_reward": 641.0,
+      "avg_harvests": 5.2
+    }
+  ],
+  "a2c": [
+    {
+      "timestamp": "2025-07-30 23:27:17",
+      "avg_reward": 497.4,
+      "max_reward": 633.4,
+      "avg_harvests": 7.6
+    },
+    {
+      "timestamp": "2025-07-30 23:28:12",
+      "avg_reward": 516.8,
+      "max_reward": 616.9,
+      "avg_harvests": 8.0
+    },
+    {
+      "timestamp": "2025-07-30 23:28:54",
+      "avg_reward": 617.6,
+      "max_reward": 795.2,
+      "avg_harvests": 9.0
+    }
+  ],
+  "reinforce": [
+    {
+      "timestamp": "2025-07-30 23:31:45",
+      "avg_reward": -97.3,
+      "max_reward": -74.0,
+      "avg_harvests": 0.0
+    }
+  ]
+}

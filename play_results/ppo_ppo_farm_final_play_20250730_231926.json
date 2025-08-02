@@ -1,0 +1,46 @@
+{
+  "algorithm": "ppo",
+  "model_path": "models/ppo/ppo_farm_final",
+  "model_name": "ppo_farm_final",
+  "timestamp": "2025-07-30 23:19:26",
+  "episodes_run": 5,
+  "total_steps": 250,
+  "statistics": {
+    "avg_reward": 460.7,
+    "max_reward": 641.0,
+    "avg_harvests": 5.2,
+    "avg_yield": 143.5
+  },
+  "episode_details": [
+    {
+      "episode": 1,
+      "reward": 292.3,
+      "harvests": 3,
+      "yield": 83.2
+    },
+    {
+      "episode": 2,
+      "reward": 487.1,
+      "harvests": 7,
+      "yield": 192.5
+    },
+    {
+      "episode": 3,
+      "reward": 641.0,
+      "harvests": 7,
+      "yield": 193.1
+    },
+    {
+      "episode": 4,
+      "reward": 450.1,
+      "harvests": 4,
+      "yield": 109.8
+    },
+    {
+      "episode": 5,
+      "reward": 432.7,
+      "harvests": 5,
+      "yield": 139.1
+    }
+  ]
+}
