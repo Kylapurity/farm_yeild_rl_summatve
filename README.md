@@ -32,8 +32,6 @@ farm_management_rl/
 │   └── reinforce/              # Saved REINFORCE models
 ├── evaluation/
 │   ├── evaluate_agents.py      # Evaluation scripts for trained models
-│   ├── performance_metrics.py  # Performance analysis tools
-│   └── results/                # Evaluation results and graphs
 ├── main.py                     # Entry point for running experiments
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
